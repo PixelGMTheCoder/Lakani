@@ -1,0 +1,1 @@
+chrome-extension://hdgegmlancchhhlkkddoiedlklgocffm/js/docs-force-html-by-ext-script.min.js
